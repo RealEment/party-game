@@ -65,6 +65,46 @@ npm run build
 npm start
 ```
 
+## 🌐 GitHub Pages Deployment
+
+### Automatikus telepítés
+
+A projekt automatikusan települ a GitHub Pages-re minden push után a `main` ágra.
+
+### Setup lépések:
+
+1. **GitHub repository létrehozása**
+   ```bash
+   git remote add origin https://github.com/YOUR_USERNAME/Party-game.git
+   git push -u origin main
+   ```
+
+2. **GitHub Pages beállítása**
+   - Menj a GitHub repository Settings > Pages oldalra
+   - Source: "GitHub Actions" kiválasztása
+
+3. **Repository név frissítése** (ha más nevet használsz)
+   - Szerkeszd a `frontend/vite.config.ts` fájlt
+   - Módosítsd a `base` értéket: `/YOUR-REPO-NAME/`
+
+4. **Deployment**
+   - A GitHub Actions automatikusan buildi és telepíti a frontendet
+   - Elérhető lesz: `https://YOUR_USERNAME.github.io/Party-game/`
+
+### Kézi telepítés
+
+```bash
+cd frontend
+npm run build
+# A dist mappát feltöltheted bármelyik static hosting szolgáltatásra
+```
+
+### Megjegyzés a backend-hez
+
+A GitHub Pages csak statikus fájlokat szolgál ki. A backend API-t külön kell hosztolni:
+- **Ingyenes opciók**: Render.com, Railway.app, Fly.io
+- A frontend API hívásokat módosítani kell a backend URL-re
+
 ## 🎮 Játékszabályok
 
 1. **Színek kiválasztása**: A játék előtt mindenki választ egy színt (nem tudják egymásról)
