@@ -80,7 +80,7 @@ export function ColorInput({
 
       <AnimatePresence mode="popLayout">
         <div className={styles.colorList}>
-          {colors.map((color, index) => (
+          {colors.map((color) => (
             <motion.div
               key={color.id}
               initial={{ opacity: 0, scale: 0.8 }}
