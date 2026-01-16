@@ -1,0 +1,522 @@
+{
+  "cards": [
+    {
+      "id": "drink-001",
+      "category": "drinking",
+      "template": "{0} isznak annyit, ahányan vannak",
+      "colorCount": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": "drink-002",
+      "category": "drinking",
+      "template": "{0} választanak egy másik színt - azokkal koccintanak és együtt isznak",
+      "colorCount": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": "drink-003",
+      "category": "drinking",
+      "template": "{0} sorban állnak és waterfall-oznak",
+      "colorCount": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": "drink-004",
+      "category": "drinking",
+      "template": "{0} kitalálnak egy tiltott szót - aki kimondja, iszik",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "drink-005",
+      "category": "drinking",
+      "template": "{0} közül a legfiatalabb oszt shotokat a csapatának",
+      "colorCount": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": "drink-006",
+      "category": "drinking",
+      "template": "{0} felállítanak egy ivó-hierarchiát - csak felfelé kínálhatnak",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "drink-007",
+      "category": "drinking",
+      "template": "{0} kitalálnak egy pohárköszöntőt, amit mindenkinek mondania kell ivás előtt",
+      "colorCount": 1,
+      "duration": 30,
+      "difficulty": "easy"
+    },
+    {
+      "id": "drink-008",
+      "category": "drinking",
+      "template": "{0} a méregkeverők - ők döntik el, ki mit iszik",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "medium"
+    },
+    {
+      "id": "drink-009",
+      "category": "drinking",
+      "template": "{0} csak akkor ihatnak, ha valaki más is velük iszik",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "easy"
+    },
+    {
+      "id": "drink-010",
+      "category": "drinking",
+      "template": "{0} minden italuk előtt elmondanak egy 1 mondatos kínos történetet",
+      "colorCount": 1,
+      "duration": 20,
+      "difficulty": "medium"
+    },
+    {
+      "id": "drink-011",
+      "category": "drinking",
+      "template": "{0} kevernek egy koktélt {1} csapatnak",
+      "colorCount": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": "drink-012",
+      "category": "drinking",
+      "template": "{0} és {1} versenyiszik - aki lassabb, iszik még egyet",
+      "colorCount": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": "comm-001",
+      "category": "communication",
+      "template": "{0} 15 percig csak énekelve beszélhetnek",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "hard"
+    },
+    {
+      "id": "comm-002",
+      "category": "communication",
+      "template": "{0} minden mondatuk végére 'ha érted mire gondolok' teszik",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comm-003",
+      "category": "communication",
+      "template": "{0} nem mondhatják ki, hogy 'igen' vagy 'nem'",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "hard"
+    },
+    {
+      "id": "comm-004",
+      "category": "communication",
+      "template": "{0} minden mondatot egy állathangutánzással zárnak",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comm-005",
+      "category": "communication",
+      "template": "{0} úgy beszélnek, mintha természetfilmet narrálnának",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comm-006",
+      "category": "communication",
+      "template": "{0} 15 percig dadogva beszélnek",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comm-007",
+      "category": "communication",
+      "template": "{0} minden mondatukat 'Őszintén szólva...' kezdik",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "easy"
+    },
+    {
+      "id": "comm-008",
+      "category": "communication",
+      "template": "{0} csak kérdésekkel kommunikálhatnak",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "hard"
+    },
+    {
+      "id": "comm-009",
+      "category": "communication",
+      "template": "{0} 10 percig magas hangon kell beszélniük",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comm-010",
+      "category": "communication",
+      "template": "{0} 10 percig csak suttogva beszélhetnek",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "easy"
+    },
+    {
+      "id": "phys-001",
+      "category": "physical",
+      "template": "{0} csak guggolva közlekedhetnek 10 percig",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "hard"
+    },
+    {
+      "id": "phys-002",
+      "category": "physical",
+      "template": "{0} összekapaszkodnak és egy testként mozognak 5 percig",
+      "colorCount": 1,
+      "duration": 5,
+      "difficulty": "medium"
+    },
+    {
+      "id": "phys-003",
+      "category": "physical",
+      "template": "{0} mindent bal kézzel csinálnak 15 percig",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "phys-004",
+      "category": "physical",
+      "template": "{0} nem tehetik le a poharukat - mindig kézben tartják",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "easy"
+    },
+    {
+      "id": "phys-005",
+      "category": "physical",
+      "template": "{0} minden ajtón áthaladáskor meghajolnak",
+      "colorCount": 1,
+      "duration": 20,
+      "difficulty": "easy"
+    },
+    {
+      "id": "phys-006",
+      "category": "physical",
+      "template": "{0} 10 percig egy lábon állnak amikor beszélnek",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "hard"
+    },
+    {
+      "id": "social-001",
+      "category": "social",
+      "template": "{0} mindegyike választ egy védencet más csapatból - ha az iszik, ők is isznak",
+      "colorCount": 1,
+      "duration": 20,
+      "difficulty": "medium"
+    },
+    {
+      "id": "social-002",
+      "category": "social",
+      "template": "{0} nem beszélhetnek egymással, csak más színekkel 15 percig",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "social-003",
+      "category": "social",
+      "template": "{0} mindenkinek hízelkednek, de nagyon túlzóan",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "easy"
+    },
+    {
+      "id": "social-004",
+      "category": "social",
+      "template": "{0} minden új beszélgetést azzal kezdenek: 'Valaki azt mondta rólad, hogy...'",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "social-005",
+      "category": "social",
+      "template": "{0} mindegyike választ egy nem saját színű embert és bókol neki",
+      "colorCount": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": "social-006",
+      "category": "social",
+      "template": "{0} elmondják, kit vinnének el a buliból és miért",
+      "colorCount": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": "role-001",
+      "category": "roleplay",
+      "template": "{0} celebek: úgy viselkednek, mintha híresek lennének",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "role-002",
+      "category": "roleplay",
+      "template": "{0} titkosügynökök: suttognak és gyanakodva néznek körbe",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "role-003",
+      "category": "roleplay",
+      "template": "{0} turisták: mindenre rácsodálkoznak",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "easy"
+    },
+    {
+      "id": "role-004",
+      "category": "roleplay",
+      "template": "{0} nagyszülők: mindenkit 'kicsikémnek' szólítanak",
+      "colorCount": 1,
+      "duration": 15,
+      "difficulty": "easy"
+    },
+    {
+      "id": "role-005",
+      "category": "roleplay",
+      "template": "{0} riporterek: mindenkit interjúvolnak",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "medium"
+    },
+    {
+      "id": "role-006",
+      "category": "roleplay",
+      "template": "{0} úgy tesznek, mintha először járnának bulin",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "easy"
+    },
+    {
+      "id": "role-007",
+      "category": "roleplay",
+      "template": "{0} 10 percig egy {1} tag hangján/stílusában beszélnek",
+      "colorCount": 2,
+      "duration": 10,
+      "difficulty": "hard"
+    },
+    {
+      "id": "comp-001",
+      "category": "competition",
+      "template": "{0} vs {1}: kő-papír-olló bajnokság - vesztesek isznak",
+      "colorCount": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": "comp-002",
+      "category": "competition",
+      "template": "{0} vs {1}: táncpárbaj - a többiek szavaznak, vesztesek isznak",
+      "colorCount": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comp-003",
+      "category": "competition",
+      "template": "{0} vs {1}: ki tud tovább egy lábon állni?",
+      "colorCount": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comp-004",
+      "category": "competition",
+      "template": "{0} kvízkérdéseket kapnak egymásról - rossz válasz = shot",
+      "colorCount": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comp-005",
+      "category": "competition",
+      "template": "{0} vs {1}: szólánc - aki nem tud szót mondani, iszik",
+      "colorCount": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comp-006",
+      "category": "competition",
+      "template": "{0} pantomimban eljátsszák {1} tagjait",
+      "colorCount": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": "comp-007",
+      "category": "competition",
+      "template": "{0} vs {1}: melyik csapat tud jobb viccet?",
+      "colorCount": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": "flirt-001",
+      "category": "flirty",
+      "template": "{0} tagjai választanak egy-egy embert és 5 percig kézen fogva járnak velük",
+      "colorCount": 1,
+      "duration": 5,
+      "difficulty": "medium"
+    },
+    {
+      "id": "flirt-002",
+      "category": "flirty",
+      "template": "{0} bókot mond mindenkinek - aki nevet, iszik",
+      "colorCount": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": "flirt-003",
+      "category": "flirty",
+      "template": "{0} és {1} tagjai párokat alkotnak és 3 percig csak egymással beszélhetnek",
+      "colorCount": 2,
+      "duration": 3,
+      "difficulty": "easy"
+    },
+    {
+      "id": "flirt-004",
+      "category": "flirty",
+      "template": "{0} közül mindenki mond egy pickup line-t {1} csapatnak",
+      "colorCount": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": "creat-001",
+      "category": "creative",
+      "template": "{0} kitalálnak egy titkos jelet - ha megcsinálják, mindenki más iszik",
+      "colorCount": 1,
+      "duration": 20,
+      "difficulty": "medium"
+    },
+    {
+      "id": "creat-002",
+      "category": "creative",
+      "template": "{0} egy közös történetet mesélnek - minden tag egy mondatot mond",
+      "colorCount": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": "creat-003",
+      "category": "creative",
+      "template": "{0} 5 percig DJ-k - ha valaki nem táncol, iszik",
+      "colorCount": 1,
+      "duration": 5,
+      "difficulty": "easy"
+    },
+    {
+      "id": "creat-004",
+      "category": "creative",
+      "template": "{0} koktélt neveznek el egy {1} tagról és elkészítik neki",
+      "colorCount": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": "creat-005",
+      "category": "creative",
+      "template": "{0} közösen kitalálnak egy szabályt, ami mindenkire vonatkozik 30 percig",
+      "colorCount": 1,
+      "duration": 30,
+      "difficulty": "medium"
+    },
+    {
+      "id": "creat-006",
+      "category": "creative",
+      "template": "{0} mindegyike mesél egy kínos történetet - szavazás a legkínosabbra",
+      "colorCount": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": "chaos-001",
+      "category": "chaotic",
+      "template": "Színcsere! {0} és {1} szerepet cserélnek 15 percre",
+      "colorCount": 2,
+      "duration": 15,
+      "difficulty": "hard"
+    },
+    {
+      "id": "chaos-002",
+      "category": "chaotic",
+      "template": "Szövetség! {0} és {1} egy csapattá válnak a következő kártyáig",
+      "colorCount": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": "chaos-003",
+      "category": "chaotic",
+      "template": "Árulás! Minden csapatból 1 ember átáll a bal oldali csapatba",
+      "colorCount": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": "chaos-004",
+      "category": "chaotic",
+      "template": "{0} kapnak egy 'bombát' - 10 percen belül tovább kell adniuk feladat fejében",
+      "colorCount": 1,
+      "duration": 10,
+      "difficulty": "medium"
+    },
+    {
+      "id": "chaos-005",
+      "category": "chaotic",
+      "template": "{0} titkos küldetést kapnak - észrevétlenül meg kell simogatniuk {1} minden tagját",
+      "colorCount": 2,
+      "duration": 15,
+      "difficulty": "hard"
+    },
+    {
+      "id": "punish-001",
+      "category": "punishment",
+      "template": "A LEGNAGYOBB csapat: mindenki feltesz nekik egy kínos kérdést",
+      "colorCount": 0,
+      "difficulty": "medium"
+    },
+    {
+      "id": "punish-002",
+      "category": "punishment",
+      "template": "A LEGNAGYOBB csapat: ők az 'inasok' 15 percig - italokat hoznak",
+      "colorCount": 0,
+      "duration": 15,
+      "difficulty": "medium"
+    },
+    {
+      "id": "punish-003",
+      "category": "punishment",
+      "template": "A LEGKISEBB csapat: védelmet élveznek - nem kaphatnak büntetést a következő körig",
+      "colorCount": 0,
+      "difficulty": "easy"
+    },
+    {
+      "id": "punish-004",
+      "category": "punishment",
+      "template": "Ha van EGYEDÜLÁLLÓ szín: ő a Joker - bármelyik feladatból kivonhatja magát",
+      "colorCount": 0,
+      "difficulty": "easy"
+    },
+    {
+      "id": "punish-005",
+      "category": "punishment",
+      "template": "A LEGNAGYOBB csapat telefonjára a többiek választanak háttérképet",
+      "colorCount": 0,
+      "difficulty": "hard"
+    }
+  ]
+}
